@@ -39,9 +39,9 @@ El desarrollo del proyecto sigue la metodología **CRISP-DM** (Cross Industry St
 ---
 
 ## 📁 Estructura del Proyecto
-
+#Sujeto a modificaciones futuras
 ```
-proyecto-morosidad-clientes/
+Machine-Learning---Banco-Monopoly/
 │
 ├── Copia_de_E1_MLY0100_Base.ipynb  # Notebook principal
 ├── data/                           # Carpeta para datasets (no incluidos)
