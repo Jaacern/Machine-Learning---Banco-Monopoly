@@ -56,13 +56,13 @@ proyecto-morosidad-clientes/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/proyecto-morosidad-clientes.git
-   cd proyecto-morosidad-clientes
+   git clone https://github.com/jaacern/Machine-Learning---Banco-Monopoly.git
+   cd Machine-Learning---Banco-Monopoly
    ```
 
 2. Instala las dependencias:
    ```bash
-   pip install -r requirements.txt
+   #pip install -r requirements.txt
    ```
 
 3. Ejecuta el notebook:
